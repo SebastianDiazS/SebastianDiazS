@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**SebastianDiazS/SebastianDiazS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, Soy Sebastian! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy Sebastian Díaz de Chile, me dedico al soporte de plataformas Ecommerce para FemsaSalud.
+
+Soy titulado de Ingenieria en Electrónica en la Universidad del Bío-Bío.
+
+Tengo experiencia en Soporte TI N1, Seguridad TI y Mineria.
+
+Me pueden contactar mediante linkedin con un mensaje directo
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sdiazsm)
+
+
+## 🛠 Skills
+Salesforce, OMS, Firewall Palo Alto y Cisco ASA
+
